@@ -28,3 +28,4 @@ C:\Users\Muhammed\Documents\DatabaseProject\InsightifyBI\InsightifyBI\Insightify
 C:\Users\Muhammed\Documents\DatabaseProject\InsightifyBI\InsightifyBI\InsightifyBI\obj\Debug\net6.0\InsightifyBI.pdb
 C:\Users\Muhammed\Documents\DatabaseProject\InsightifyBI\InsightifyBI\InsightifyBI\obj\Debug\net6.0\InsightifyBI.genruntimeconfig.cache
 C:\Users\Muhammed\Documents\DatabaseProject\InsightifyBI\InsightifyBI\InsightifyBI\obj\Debug\net6.0\ref\InsightifyBI.dll
+C:\Users\Muhammed\Documents\DatabaseProject\InsightifyBI\InsightifyBI\InsightifyBI\obj\Debug\net6.0\InsightifyBI.sourcelink.json
